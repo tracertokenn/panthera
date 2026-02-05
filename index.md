@@ -2,17 +2,13 @@
 layout: default
 title: Panthera
 ---
-<div align="center">
-   <b> Panthera </b>
-</div>
+# Panthera
 
-<div align="center">
 Hello. I am known online as "aggronvation," "tracertokenn," or "tien." I have an archive of CRX files & I am into digital privacy. This sites purpose is updates on my CRX archive & rambles about digital privacy.
-</div>
 
-<div align="center">
+
 [**CRX Archive mirrors**](https://linkmix.co/50710457){:target="_blank" rel="noopener noreferrer"}
-</div>
+
 
 ---
 *Since this site is very minimalist, there's no tracking here to worry about. Although I strip referrers from links, you're on your own from there. Click links acknowledging their privacy policies. [**Linkmix Privacy Notice**](https://linkmix.co/en/){:target="_blank" rel="noopener noreferrer"} (at the bottom of their page)*
