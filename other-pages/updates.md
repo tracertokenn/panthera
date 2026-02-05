@@ -6,6 +6,6 @@ Here is where I post updates for my CRX archive project. It seems you've arrived
 
 [**/rambles**](https://tracertokenn.github.io/panthera/other-pages/rambles)
 
-[**/socials**](https://tracertokenn.github.io/panthera/socials)
+[**/socials**](https://tracertokenn.github.io/panthera/other-pages/socials)
 
 [**CRX Archive mirrors**](https://linkmix.co/50710457){:target="_blank" rel="noopener noreferrer"}
