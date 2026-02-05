@@ -5,15 +5,23 @@
 
 body {
   background-color: #000000;
-  color: #C3110C; 
+  color: #c3110c; 
 }
 
 h1 {
-  color: #740A03;
+  color: #740a03;
   text-align: center;
 }
 
 p {
   font-size: 20px;
-  color: #C3110C;
+  color: #e50000;
+}
+a {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #740a03;
 }
