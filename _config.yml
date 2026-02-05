@@ -1,6 +1,6 @@
 # settings
 title: Panthera
-description: Panthera is a genus in the Felidae family.
+description:
 url: "https://tracertokenn.github.io"
 baseurl: "/panthera"
 remote_theme: pages-themes/dinky@v0.2.0
