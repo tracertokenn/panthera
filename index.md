@@ -7,7 +7,7 @@ title: Panthera
 Hello. I am known online as "aggronvation," "tracertokenn," or "tien." I have an archive of CRX files & I am into digital privacy. This sites purpose is updates on my CRX archive & rambles about digital privacy.
 
 
-[**/rambles**](https://tracertokenn.github.io/other-pages/rambles)
+[**/rambles**](https://tracertokenn.github.io/panthera/other-pages/rambles)
 
 [**/updates**](https://tracertokenn.github.io/panthera/other-pages/updates)
 
