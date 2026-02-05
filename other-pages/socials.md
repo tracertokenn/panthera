@@ -6,9 +6,9 @@ Discord: [**@tracertokenn**](https://discordapp.com/users/1454571096211718168)
 
 Bluesky: [**@aggronvation.bsky.social**](https://bsky.app/profile/aggronvation.bsky.social)
 
-Reddit: [**u/Low_Staff_2263**](https://www.reddit.com/user/Low_Staff_2263)
+Signal: [**@tracertokenn.85**](https://signal.me/#eu/sJRYi5wFu3apPUJhmvGC5vZ-wGOHoewQ-01DB3Lv_jYZFZUQZF1Gx5BYAfzuBxoo)
 
-Signal: [**tracertokenn.85**](https://signal.me/#eu/sJRYi5wFu3apPUJhmvGC5vZ-wGOHoewQ-01DB3Lv_jYZFZUQZF1Gx5BYAfzuBxoo)
+Reddit: [**u/Low_Staff_2263**](https://www.reddit.com/user/Low_Staff_2263)
 
 On Signal, I will only reply to messages related to the archive.
 
