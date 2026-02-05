@@ -8,7 +8,7 @@ Bluesky: [**@aggronvation.bsky.social**](https://bsky.app/profile/aggronvation.b
 
 Reddit: [**u/Low_Staff_2263**](https://www.reddit.com/user/Low_Staff_2263)
 
-Signal: tracertokenn.85
+Signal: [**tracertokenn.85**](https://signal.me/#eu/sJRYi5wFu3apPUJhmvGC5vZ-wGOHoewQ-01DB3Lv_jYZFZUQZF1Gx5BYAfzuBxoo)
 
 On Signal, I will only reply to messages related to the archive.
 
