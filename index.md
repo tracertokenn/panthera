@@ -9,7 +9,7 @@ Hello. I am known online as "aggronvation," "tracertokenn," or "tien." I have an
 
 [**/rambles**](https://tracertokenn.github.io/panthera/other-pages/rambles)
 
-[**/socials**](https://tracertokenn.github.io/panthera/socials)
+[**/socials**](https://tracertokenn.github.io/panthera/other-pages/socials)
 
 [**/updates**](https://tracertokenn.github.io/panthera/other-pages/updates)
 
