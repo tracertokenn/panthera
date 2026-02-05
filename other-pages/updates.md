@@ -1,6 +1,11 @@
 # Panthera | Updates
 
-Here is where I post updates for my CRX archive project. It seems you've arrived while it's still empty. Please come back later.
+Here is where I post updates for my CRX archive project. 
+
+[**February 5th, 2026 Update**](https://tracertokenn.github.io/panthera/other-pages/u/02.05.26)
+
+
+
 
 [**/panthera**](https://tracertokenn.github.io/panthera/)
 
