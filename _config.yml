@@ -8,3 +8,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
+github:
+
+is_project_page: false
