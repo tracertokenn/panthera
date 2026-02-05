@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panthera Project
+title: Panthera
 ---
 
 # Panthera
