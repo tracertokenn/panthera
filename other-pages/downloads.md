@@ -1,6 +1,6 @@
 # Panthera | Downloads
 
-Here is where I provide download links to my CRX archived files. You have arrived while this page is incomplete. I recommend using the [**IA**](https://archive.org/download/crx-archives){ rel="noopener noreferrer"} until this page is completed.
+Here is where I provide download links to my CRX archived files. You have arrived while this page is incomplete. I recommend using the [**IA**](https://archive.org/download/crx-archives) until this page is completed.
 
 [**adnauseam-manifest-v2.crx**](https://tracertokenn.github.io/crx-archives/crx-archives/adnauseam-manifest-v2.crx){:target="_blank"}
 
