@@ -5,9 +5,9 @@ Here is where I post updates for my CRX archive project.
 [**February 5th, 2026 Update**](https://tracertokenn.github.io/panthera/other-pages/u/02.05.26)
 
 
-
-
 [**/panthera**](https://tracertokenn.github.io/panthera/)
+
+[**/downloads**](https://tracertokenn.github.io/panthera/other-pages/downloads)
 
 [**/rambles**](https://tracertokenn.github.io/panthera/other-pages/rambles)
 
