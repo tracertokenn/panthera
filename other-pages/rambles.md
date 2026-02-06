@@ -4,6 +4,8 @@ Here is where I post rambles. It seems you’ve arrived while it’s still empty
 
 [**/panthera**](https://tracertokenn.github.io/panthera/)
 
+[**/downloads**](https://tracertokenn.github.io/panthera/other-pages/downloads)
+
 [**/socials**](https://tracertokenn.github.io/panthera/other-pages/socials)
 
 [**/updates**](https://tracertokenn.github.io/panthera/other-pages/updates)
