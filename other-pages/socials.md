@@ -15,6 +15,8 @@ On Signal, I will only reply to messages related to the archive.
 
 [**/panthera**](https://tracertokenn.github.io/panthera/)
 
+[**/downloads**](https://tracertokenn.github.io/panthera/other-pages/downloads)
+
 [**/rambles**](https://tracertokenn.github.io/panthera/other-pages/rambles)
 
 [**/updates**](https://tracertokenn.github.io/panthera/other-pages/updates)
