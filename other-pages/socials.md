@@ -1,6 +1,6 @@
 # Panthera | Socials
 
-My socials as of February 5th, 2025
+My socials as of March 2nd, 2026
 
 Discord: [**@tracertokenn**](https://discordapp.com/users/1454571096211718168){:target="_blank" rel="noopener noreferrer"}
 
