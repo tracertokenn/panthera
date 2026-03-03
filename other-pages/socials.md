@@ -10,7 +10,7 @@ Signal: [**@tracertokenn.85**](https://signal.me/#eu/sJRYi5wFu3apPUJhmvGC5vZ-wGO
 
 Reddit: [**u/Low_Staff_2263**](https://www.reddit.com/user/Low_Staff_2263){:target="_blank" rel="noopener noreferrer"}
 
-Email (not a social, cry about it): aggron@linuxmail.org
+Email (not a social, cry about it): [**aggron@linuxmail.org**](mailto:aggron@linuxmail.org)
 
 On Signal, I will only reply to messages related to the archive.
 
